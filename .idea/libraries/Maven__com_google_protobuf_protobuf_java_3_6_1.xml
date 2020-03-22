@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: com.google.protobuf:protobuf-java:3.6.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jBCrypt-0.4.zip!/jBCrypt-0.4/src" />
+      <root url="jar://$PROJECT_DIR$/src/jBCrypt-0.4.zip!/jBCrypt-0.4/test" />
+    </SOURCES>
+  </library>
+</component>
